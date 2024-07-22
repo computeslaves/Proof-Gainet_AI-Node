@@ -17,6 +17,11 @@ We can see the quest here https://www.gaianet.ai/ & see the Gaianet documentatio
 
 ================================================================
 
+This is the System requirements to run Gaia AI Node
+
+![image](https://github.com/user-attachments/assets/d1488e24-87fe-459b-b410-84ed4892dc8b)
+
+
 Run on VPS, my specification for running the Gaianet AI Node: Ubuntu 22.0 Core 8 Ram 24 Storage 300Gb NVME
 
 ![image](https://github.com/user-attachments/assets/d83aa9f8-baa3-4bfe-a2a9-2aceb2ebd569)
